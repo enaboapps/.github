@@ -4,7 +4,7 @@ Hi — I'm Owen. Since 2016 I've been making apps for people with mobility and s
 
 ## What I'm building today
 
-### [Switchify](https://github.com/enaboapps/Switchify)
+### [Switchify](https://github.com/switchifyapp/Switchify)
 Android accessibility service. Lets switch users operate any phone or tablet — cursor scanning, item scanning, camera-based head control, customisable speeds, external switch support.
 ↳ [Play Store](https://play.google.com/store/apps/details?id=com.enaboapps.switchify) · [switchifyapp.com](https://switchifyapp.com)
 
