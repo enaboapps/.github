@@ -6,7 +6,7 @@ Hi — I'm Owen. Since 2016 I've been making apps for people with mobility and s
 
 ### [Switchify](https://github.com/switchifyapp/Switchify)
 Android accessibility service. Lets switch users operate any phone or tablet — cursor scanning, item scanning, camera-based head control, customisable speeds, external switch support.
-↳ [Play Store](https://play.google.com/store/apps/details?id=com.enaboapps.switchify) · [switchifyapp.com](https://switchifyapp.com)
+↳ [Play Store](https://play.google.com/store/apps/details?id=com.enaboapps.switchify) · [switchifyapp.com](https://switchifyapp.com) · Open source ([AGPL-3.0](https://github.com/switchifyapp/Switchify/blob/main/LICENSE))
 
 ### [SayIt!](https://github.com/enaboapps/sayit-web)
 AI-powered AAC for non-verbal users. Phrase boards, AI-assisted writing, text-to-speech across browser / ElevenLabs / Azure / Gemini.
